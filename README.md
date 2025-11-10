@@ -1,3 +1,4 @@
+# readme stuff
 <div align="center">
 aligning text : 
 
@@ -13,3 +14,19 @@ c
 <div align="center">
 
 how to insert gifs/images/videos :
+![Image](https://github.com/user-attachments/assets/3cdb41bb-5ba1-4a93-9a9f-7e70c3f49841)
+find ur repository
+
+click it
+
+click "issues" and "new issue"
+
+find "add file" and click it 
+
+drag/insert your image/gif/video
+
+wait for it the upload
+
+after uploading, copy it
+
+open ur repository, edit and paste the link
