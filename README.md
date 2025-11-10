@@ -37,5 +37,9 @@ open ur repository, edit and paste the link
 how to add link :
 
 <div align="right">
-  
+
+![Image](https://github.com/user-attachments/assets/e8c944be-0774-4550-a432-2e3ae5cb0216)
 [my git](https://github.com/scam-duo)
+
+<div align="left">
+ok thanks
