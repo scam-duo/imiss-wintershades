@@ -15,6 +15,8 @@ c
 
 how to insert gifs/images/videos :
 ![Image](https://github.com/user-attachments/assets/3cdb41bb-5ba1-4a93-9a9f-7e70c3f49841)
+
+<div align="right">
 find ur repository
 
 click it
@@ -30,3 +32,10 @@ wait for it the upload
 after uploading, copy it
 
 open ur repository, edit and paste the link
+
+<div align="center">
+how to add link :
+
+<div align="right">
+  
+[my git](https://github.com/scam-duo)
