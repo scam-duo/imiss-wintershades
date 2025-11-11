@@ -29,7 +29,7 @@ wait for it the upload
 
 after uploading, copy it
 
-press "code", edit and paste the link
+click "code", edit and paste the link
 
 <div align="center">
 how to add link :
