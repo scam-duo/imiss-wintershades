@@ -17,9 +17,7 @@ how to insert gifs/images/videos :
 ![Image](https://github.com/user-attachments/assets/3cdb41bb-5ba1-4a93-9a9f-7e70c3f49841)
 
 <div align="right">
-find ur repository
-
-click it
+find/create ur repository 
 
 click "issues" and "new issue"
 
@@ -45,4 +43,7 @@ can be any text like :
 
 [wiwbeiduaiavesgajr](https://github.com/scam-duo)
 <div align="left">
+
+when creating a readme, it must have the same title as your username
+
 ok thanks
