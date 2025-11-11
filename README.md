@@ -44,6 +44,6 @@ can be any text like :
 [wiwbeiduaiavesgajr](https://github.com/scam-duo)
 <div align="left">
 
-when creating a readme, it must have the same title as your username
+when creating a readme, it must have the same name as your username
 
 ok thanks
