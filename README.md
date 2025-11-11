@@ -29,7 +29,7 @@ wait for it the upload
 
 after uploading, copy it
 
-open ur repository, edit and paste the link
+press "code", edit and paste the link
 
 <div align="center">
 how to add link :
